@@ -1,4 +1,4 @@
-# osplatform
+# Quick support platform variable
 Support mutiplatform variable
 
 

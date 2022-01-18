@@ -21,6 +21,13 @@ void main(){
         // Android Logic
     }else if(Web){
         //Web Logic
+    }else{ //some else}
+
+    if(isDesktop){
+        //Logic for Window, MacOS, Linux
+
     }
+    String OSName << This is osname like "linux" "windows" ....
+
 }
 ```

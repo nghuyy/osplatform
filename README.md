@@ -1,6 +1,14 @@
 # osplatform
 Support mutiplatform variable
 
+
+## Include
+
+```yaml
+    git:
+        url: https://github.com/nghuyy/osplatform.git
+        ref: main
+```        
 ## Getting Started
 ```dart
 import 'package:osplatform/OSPlatform.dart';
@@ -14,5 +22,4 @@ void main(){
         //Web Logic
     }
 }
-
 ```
